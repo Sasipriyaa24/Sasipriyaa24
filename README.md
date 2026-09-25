@@ -195,8 +195,8 @@ Building Real-World Projects
 
 # 📫 Connect With Me
 
-* 💼 **LinkedIn:** [[[Add your LinkedIn URL](https://www.linkedin.com/in/sasi-priyaa-chowdary-korrapati-54bb95305/)]]
-* 🌐 **Portfolio:** [[Add your portfolio URL](https://sasipriyaaportfolio.vercel.app/)]
+* 💼 **LinkedIn:** (https://www.linkedin.com/in/sasi-priyaa-chowdary-korrapati-54bb95305/)
+* 🌐 **Portfolio:** (https://sasipriyaaportfolio.vercel.app/)
 * 📧 **Email:** sasipriyaa4424@gmail.com
 * 🐙 **GitHub:** [Sasipriyaa24](https://github.com/Sasipriyaa24)
 
